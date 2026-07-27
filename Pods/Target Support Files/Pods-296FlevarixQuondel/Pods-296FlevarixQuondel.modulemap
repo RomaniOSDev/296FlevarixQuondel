@@ -1,0 +1,6 @@
+framework module Pods_296FlevarixQuondel {
+  umbrella header "Pods-296FlevarixQuondel-umbrella.h"
+
+  export *
+  module * { export * }
+}
